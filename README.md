@@ -6,7 +6,7 @@ This repository contains Jupyter Notebook that compares the performance of vario
 
 - `penguins/`: Main folder containing the notebook and data subfolder.
   - `penguins/data/`: Contains the dataset file (`penguins.csv`).
-  - `penguins/comparison_notebook.ipynb`: Jupyter Notebook that includes the data preprocessing, model training, and evaluation.
+  - `penguins/penguinset_models.ipynb`: Jupyter Notebook that includes the data preprocessing, model training, and evaluation.
 
 ## How to Use
 
